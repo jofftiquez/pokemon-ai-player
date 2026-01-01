@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Runtime files
+input/
+output/
+
+# ROMs (do not distribute - obtain legally)
+*.gb
+*.gbc
+*.gba
+
+# Save files and states
+*.sav
+*.state
+*.ss[0-9]
+*.ss[0-9][0-9]
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Misc
+*.log

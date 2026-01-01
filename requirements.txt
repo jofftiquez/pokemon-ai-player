@@ -1,0 +1,2 @@
+# No Python dependencies needed - mGBA handles emulation via Lua scripting
+# The bridge.py launcher only uses standard library
