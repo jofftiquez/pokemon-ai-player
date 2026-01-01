@@ -55,8 +55,8 @@ sudo apt install mgba-qt
 ### 2. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/ai-plays-pokemon.git
-cd ai-plays-pokemon
+git clone git@github.com:jofftiquez/pokemon-ai-player.git
+cd pokemon-ai-player
 ```
 
 ### 3. Add your ROM
